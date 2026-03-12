@@ -1,7 +1,7 @@
 ---
 name: 🎖️ Badge Submission
 about: Submit your completed tasks for badge review
-title: "🎖️ Badge Submission - [Your Name]"
+title: "🎖️ Badge Submission - Devindi"
 labels: ['submission', 'pending-review']
 assignees: ['nisalgunawardhana']
 ---
@@ -19,21 +19,21 @@ Type your level (type exactly as shown):
 - Type: **intermediate** (Tasks 4-7)  
 - Type: **advanced** (Tasks 8-10)
 
-**My Level:** 
+**My Level:** beginner
 
 ---
 
 ## 👤 Your Information
 
-**GitHub Username:** @[your-username]
+**GitHub Username:** @SKdevindi
 
-**Contact Email (for updates):** you@example.com
+**Contact Email (for updates):** shamakaveesha@gmail.com
 
-**PR Link:** [Paste your pull request URL]
+**PR Link:** https://github.com/nisalgunawardhana/github-actions-learning/pull/215
 
-**Branch Name:** working-[level]-[yourname]
+**Branch Name:** working-beginner-Devindi
 
-**Submission File:** .github/submissions/[level]-[yourname].md
+**Submission File:** .github/submissions/beginner-Devindi.md
 
 ---
 
